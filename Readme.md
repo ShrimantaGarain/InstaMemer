@@ -1,8 +1,8 @@
-# Instamemexbot
+
 
 
 ## About
-**Instamemexbot** is bot which automatically post Memes and Facts on Instagram . The bot posts top Memes from Reddit pages. Bot also post amazing facts and photographs linked with a keyword from the facts.
+Its is bot which automatically post Memes and Facts on Instagram . The bot posts top Memes from Reddit pages. Bot also post amazing facts and photographs linked with a keyword from the facts.
 
 
 ## How it works and what it does?
